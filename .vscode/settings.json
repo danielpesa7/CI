@@ -1,3 +1,9 @@
 {
-    "python.pythonPath": "/home/daniel/ci/bin/python3.8"
+    "python.pythonPath": "/home/daniel/ci/bin/python3.8",
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }
